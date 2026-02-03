@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../AvrageOfArray/AvrageOfArray.csproj" Id="ae9f193f-f0b8-4daa-83ac-4f87f52e70b3" />
+  <Project Path="../Calculator/Calculator.csproj" Id="bf6f96dd-5e6f-47b2-a3b4-756bbd6c3f3f" />
+  <Project Path="../palindrom/palindrom.csproj" />
+  <Project Path="../SzamKitalalo/SzamKitalalo.csproj" />
+  <Project Path="../TeruletKerulet/TeruletKerulet.csproj" />
+  <Project Path="AtlagSzamitas.csproj" />
+</Solution>
