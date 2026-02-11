@@ -1,0 +1,14 @@
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\bin\Debug\net10.0\LINQgyak1.exe
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\bin\Debug\net10.0\LINQgyak1.deps.json
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\bin\Debug\net10.0\LINQgyak1.runtimeconfig.json
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\bin\Debug\net10.0\LINQgyak1.dll
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\bin\Debug\net10.0\LINQgyak1.pdb
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\obj\Debug\net10.0\LINQgyak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\obj\Debug\net10.0\LINQgyak1.AssemblyInfoInputs.cache
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\obj\Debug\net10.0\LINQgyak1.AssemblyInfo.cs
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\obj\Debug\net10.0\LINQgyak1.csproj.CoreCompileInputs.cache
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\obj\Debug\net10.0\LINQgyak1.dll
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\obj\Debug\net10.0\refint\LINQgyak1.dll
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\obj\Debug\net10.0\LINQgyak1.pdb
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\obj\Debug\net10.0\LINQgyak1.genruntimeconfig.cache
+C:\Users\ttutu\source\repos\Gyakorlatok2\LINQgyak1\obj\Debug\net10.0\ref\LINQgyak1.dll

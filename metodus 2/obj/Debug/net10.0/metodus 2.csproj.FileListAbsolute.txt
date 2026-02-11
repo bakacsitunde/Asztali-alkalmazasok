@@ -1,0 +1,14 @@
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\obj\Debug\net10.0\metodus 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\obj\Debug\net10.0\metodus 2.AssemblyInfoInputs.cache
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\obj\Debug\net10.0\metodus 2.AssemblyInfo.cs
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\obj\Debug\net10.0\metodus 2.csproj.CoreCompileInputs.cache
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\bin\Debug\net10.0\metodus 2.exe
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\bin\Debug\net10.0\metodus 2.deps.json
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\bin\Debug\net10.0\metodus 2.runtimeconfig.json
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\bin\Debug\net10.0\metodus 2.dll
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\bin\Debug\net10.0\metodus 2.pdb
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\obj\Debug\net10.0\metodus 2.dll
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\obj\Debug\net10.0\refint\metodus 2.dll
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\obj\Debug\net10.0\metodus 2.pdb
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\obj\Debug\net10.0\metodus 2.genruntimeconfig.cache
+C:\Users\ttutu\source\repos\Gyakorlatok2\metodus 2\obj\Debug\net10.0\ref\metodus 2.dll
